@@ -1,0 +1,47 @@
+165. Printing statistics.
+
+=== tt_um_yourname_protoemu ===
+
+        +----------Local Count, excluding submodules.
+        |        +-Local Area, excluding submodules.
+        |        | 
+    18329        - wires
+    18364        - wire bits
+     4245        - public wires
+     4280        - public wire bits
+        8        - ports
+       43        - port bits
+    18345 3.75E+05 cells
+        6   76.205   sg13cmos5l_a21o_1
+      321 2.91E+03   sg13cmos5l_a21oi_1
+       78 1.13E+03   sg13cmos5l_a221oi_1
+       72  781.099   sg13cmos5l_a22oi_1
+       64  580.608   sg13cmos5l_and2_1
+       10  127.008   sg13cmos5l_and3_1
+        1   14.515   sg13cmos5l_and4_1
+       10   72.576   sg13cmos5l_buf_1
+     4266 2.09E+05   sg13cmos5l_dfrbpq_1
+      353  1921.45   sg13cmos5l_inv_1
+     4127 7.49E+04   sg13cmos5l_mux2_1
+      409 1.56E+04   sg13cmos5l_mux4_1
+      315 2.29E+03   sg13cmos5l_nand2_1
+       41  371.952   sg13cmos5l_nand2b_1
+       40   362.88   sg13cmos5l_nand3_1
+        7   88.906   sg13cmos5l_nand3b_1
+        8   87.091   sg13cmos5l_nand4_1
+     2084 1.51E+04   sg13cmos5l_nor2_1
+       17  154.224   sg13cmos5l_nor2b_1
+      405  3674.16   sg13cmos5l_nor3_1
+      546 5.94E+03   sg13cmos5l_nor4_1
+      984 8.93E+03   sg13cmos5l_o21ai_1
+       12  108.864   sg13cmos5l_or2_1
+       20  254.016   sg13cmos5l_or3_1
+       24  348.365   sg13cmos5l_or4_1
+     4096 2.97E+04   sg13cmos5l_tiehi
+        7   50.803   sg13cmos5l_tielo
+       15  217.728   sg13cmos5l_xnor2_1
+        7  101.606   sg13cmos5l_xor2_1
+
+   Chip area for module '\tt_um_yourname_protoemu': 374897.678400
+     of which used for sequential elements: 208986.220800 (55.74%)
+
